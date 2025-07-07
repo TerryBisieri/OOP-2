@@ -1,4 +1,4 @@
-//package Arithmetic;
+package Arithmetic;
 
 public class Sum {
     public static int sum(int n){
