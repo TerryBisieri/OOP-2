@@ -1,6 +1,6 @@
-//package Arithmetic;
+package Arithmetic;
 //Java program to demonstrate handling the exception using try-catch block
-//import java.io.*;
+import java.io.*;
 
 class Arithmetic {
     public static void main(String[] args) {
